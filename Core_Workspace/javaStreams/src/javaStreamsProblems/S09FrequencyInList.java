@@ -6,6 +6,8 @@ import java.util.Map;
 import java.util.function.Function;
 import java.util.stream.Collectors;
 
+//Given a list of strings, find the frequency of each word using Java streams
+
 public class S09FrequencyInList {
 	public static void main(String[] args) {
 		List<String> words = Arrays.asList("apple", "banana", "apple", "cherry", "banana", "apple");

@@ -3,6 +3,7 @@ package javaStreamsProblems;
 import java.util.Arrays;
 import java.util.List;
 
+//Check if a list of integers contains a prime number using Java streams
 
 public class S03ContainsPrime {
 	

@@ -3,6 +3,8 @@ package javaStreamsProblems;
 import java.util.Arrays;
 import java.util.List;
 
+//Calculate the average age of a list of Person objects using Java streams
+
 class Person {
 
 	public String name;
@@ -34,9 +36,9 @@ public class S02AverageOfList {
 			);
 		System.out.println(
 							persons.stream()
-									.mapToInt(Person::getAge)
-									.average()
-									.orElse(0)
+								   .mapToInt(Person::getAge)
+								   .average()
+								   .orElse(0)
 						);
 	}
 }

@@ -8,6 +8,8 @@ import java.util.List;
 import java.util.Map;
 import java.util.stream.Collectors;
 
+//Given a list of transactions, find the sum of transaction amounts for each day using Java streams
+
 class Transaction {
     private Date date;
     private Integer amount;

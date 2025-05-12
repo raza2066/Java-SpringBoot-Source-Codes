@@ -4,6 +4,8 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Collectors;
 
+//Remove duplicates from a list while preserving the order using Java streams
+
 public class S06RemoveDuploicates {
 
 	public static void main(String[] args) {

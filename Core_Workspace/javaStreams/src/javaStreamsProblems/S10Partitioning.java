@@ -5,6 +5,8 @@ import java.util.List;
 import java.util.Map;
 import java.util.stream.Collectors;
 
+//Implement a method to partition a list into two groups based on a predicate using Java streams
+
 public class S10Partitioning {
 
 	public static void main(String[] args) {

@@ -2,6 +2,8 @@ package javaStreamsProblems;
 
 import java.util.Arrays;
 
+//Find the kth smallest element in an array using Java streams
+
 public class S08KthSmallestElement {
 
 	public static void main(String[] args) {

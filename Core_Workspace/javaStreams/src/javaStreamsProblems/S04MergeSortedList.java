@@ -5,6 +5,8 @@ import java.util.List;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
+//Merge two sorted lists into a single sorted list using Java streams
+
 public class S04MergeSortedList {
 	public static void main(String[] args) {
 		List<Integer> list1 = Arrays.asList(1, 3, 5, 7, 9);
